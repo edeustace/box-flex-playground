@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "Add your repo here"
+    "url": "https://github.com/edeustace/box-flex-playground"
   },
   "dependencies": {
     "express":"2.5.9",
